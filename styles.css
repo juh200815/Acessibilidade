@@ -27,7 +27,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/ElvisPresleyElvisPresleyElvisPresleyElvisPresleyElvisPresleyElvisPresleyElvisPresleyElvisPresleyElvisPresley\ \(2\).png');
+    background-image: url('img/');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -107,7 +107,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/Elvis.png') bottom right no-repeat;
+    background: url('img/ElvisPresleyElvisPresleyElvisPresleyElvisPresleyElvisPresleyElvisPresleyElvisPresleyElvisPresleyElvisPresley\ \(2\).png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
