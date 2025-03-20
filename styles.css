@@ -57,7 +57,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--black);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -69,8 +69,8 @@ section {
 }
 
 .display-4 {
-    color: #00000;
-    text-shadow: -5px 5px var(--laranja-claro);
+    color: #999;
+    text-shadow: -5px 5px var(--black);
 }
 
 
